@@ -1,0 +1,34 @@
+{
+  "Sources": {  
+    "NetDania": {
+      "Username": "sadfa", 
+      "Password": "sdfas",
+      "Frequency": 150,
+      "Status": true 
+    },
+    "OpenExchange": {
+      "Username": "sadfa",
+      "Password": "sdfas",
+       "Frequency": 2, 
+      "Status": true
+    }
+  },
+  "Client": {
+    "Token": "sadfafasdfdsafsadf", 
+    "Ips": [
+      "127.0.0.1",
+      "204.0.0.1"
+    ]
+  },
+  "Server": {
+    "IP": "127.0.0.1",  
+    "Port": "4000",
+    "timeout": 30
+  },
+  "Miscellaneous": {
+    "DebugRequest": true,
+    "DebugSource": false, 
+    "ServerDebug" : true,
+    "Precision" : 4 
+  }
+}
